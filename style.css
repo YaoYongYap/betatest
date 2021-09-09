@@ -1,0 +1,112 @@
+.red-color{
+    color: rgb(255, 0, 0);
+}
+
+.green-color{
+    color: rgb(0, 255, 0);
+}
+
+.blue-color{
+    color: rgb(0, 0, 255);
+}
+
+.yellow-color{
+    color: rgb(255, 255, 0);
+}
+
+.magenta-color{
+    color: rgb(255, 0, 255);
+}
+
+.light-blue-color{
+    color: rgb(0, 255, 255)
+}
+
+.white-color{
+    color: rgb(255, 255, 255);
+}
+
+.grey-color{
+    color: rgb(175, 175, 175);
+}
+
+.black-color{
+    color: rgb(0, 0, 0);
+}
+
+.color-link{
+    color: orange;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 7px;
+    color: #777777;
+    line-height: 10px;
+}
+
+.full-width{
+    width: 100%;
+    float: left;
+}
+
+.half-width-right{
+    width: 50%;
+    float: right;
+}
+
+.half-width-left{
+    width: 50%;
+    float: left;
+}
+
+.side-img{
+    width: 50%;
+    padding-left: 25%;
+}
+
+.primary-btn{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 255);
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+h1{
+    font-family: Roboto;
+    font-size: 10px;
+    border: 1px solid rgb(0, 255, 0);
+}
+
+.title{
+    font-size: 15px;
+}
+
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+
+.border-color-5hdtt{
+    border-color: rgb(255, 255, 255);
+}
+
+.border-color-3egft{
+    border-color: rgb(0, 255, 255);
+}
+
+.border-color-8jkyt{
+    border-color: rgb(250, 210, 0);
+}
+
+.border-color-9iass{
+    border-color: rgb(105, 45, 154);
+}
+
+.my-target{
+    font: rgb(255, 0, 0);
+    border: 1px solid rgb(250, 210, 0);
+    border-radius: 5px;
+}
+
